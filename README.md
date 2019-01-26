@@ -1,6 +1,7 @@
 # lc0-tui
 Terminal based user interface for lc0
-This will run on a tiny instance (free) on Google Cloud Platform
+This will run on a tiny instance (free) on Google Cloud Platform or a Raspberry Pi
+
 Use small weights files e.g. from https://github.com/dkappe/leela-chess-weights/releases
 
 ## Basic instructions
