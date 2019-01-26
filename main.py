@@ -31,7 +31,7 @@ COMMAND_LINE = [
 
 START_TIME = 5 * 60 * 1000
 INCREMENT_MS = 1000
-OPENING_BOOK = "WCCCbook.bin"
+OPENING_BOOK = ""
 
 ############################################################################
 
